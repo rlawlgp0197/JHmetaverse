@@ -186,7 +186,7 @@ class App {
                 diameter/2
             );          
 
-            //월드 좌표계 축 표시 x 빨강  y초록 z파랑
+            //월드 좌표계 축 표시 x 빨강 y초록 z파랑
             const axisHelper = new THREE.AxesHelper(1000);
             this._scene.add(axisHelper);
 
