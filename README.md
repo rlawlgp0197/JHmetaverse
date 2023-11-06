@@ -19,14 +19,20 @@
         </td>
     </tr>
 </table>
+<br>
+<br>
 
 ## 🔍 화면설명
 - JavaScript, three.js, blender 활용
 <img src="https://github.com/rlawlgp0197/App/assets/134493927/b1a4a910-ac54-43f9-ad31-3b77e6c33e07"  width="800" height="500"/>
+<br>
+<br>
 
 - 키보드의 w,a,s,d를 누르면 움직이고 휠에 따라 확대 축소가 되며 마우스를 이용하여 화면회전 가능
 - shift를 누르면서 wasd를 누를시 달린다.
 <img src="https://github.com/rlawlgp0197/App/assets/134493927/10455eff-1f81-473c-bf66-038e3b9311fe"  width="800" height="500"/>
+<br>
+<br>
 
 - plane영역을 벗어나면 캐릭터가 바닥으로 떨어진다
 <img src="https://github.com/rlawlgp0197/App/assets/134493927/a008f4f0-dbb7-4581-aabf-054f76b5b507"  width="800" height="500"/>
